@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/jairotorregrosa/anaconda3/envs/covid/bin/python"
+    "python.pythonPath": "/Users/jairotorregrosa/anaconda3/envs/covid/bin/python",
+    "python.dataScience.jupyterServerURI": "local"
 }
