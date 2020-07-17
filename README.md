@@ -1,3 +1,7 @@
-# Casos y Muertos diarios de COVID-19 para latinoamerica
+# Gráficas diarias de coronavirus para:
+* Latinoamerica
+* Colombia
+* Bogotá
+* Municipios PDET
 
-# Pronto ESPECIAL PDET
+Los datos son tomados del Instituo Nacional de Saluid, Saludata y JHU.
